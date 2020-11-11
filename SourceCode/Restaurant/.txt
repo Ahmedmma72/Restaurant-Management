@@ -1,0 +1,7 @@
+FT		ID		AT		WT		ST		
+
+
+Orders: 0	[Norm: 0, Veg: 0, VIP: 0]
+cooks: 0	[Norm: 0, Veg: 0, VIP: 0, Injured: 0]
+Avg Wait: -nan(ind), Avg Serv: -nan(ind)
+Urgent Orders: 0 Auto_Promoted: 0
